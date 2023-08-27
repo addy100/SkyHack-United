@@ -13,3 +13,15 @@ F&B satisfaction is measured using our NPS (Net Promoter Score) survey. Customer
 <B> Inflight Satisfaction = Satisfied Sample/Total Sample * 100 </B>
 
 Satisfied Sample = Score is either 4 or 5 (Score ranges from 0-5)
+
+# Deliverables
+
+Perform root cause analysis to identify key drivers of F&B satisfaction score during summer months
+Use survey comments to understand major themes related to F&B that customers are complaining about
+
+# Data description
+
+Survey data – Inflight Satisfaction Score
+Survey data – Customer comments/feedback
+Inflight Service – Pre order data
+Inflight Service – Inventory data (only for Business/First Class)
